@@ -1,0 +1,95 @@
+nav{
+    display:flex;
+    justify-content:space-evenly;
+    color: rgb(151, 134, 134);
+}
+
+nav a{
+    color: black;
+}
+
+body{
+    background-color:rgb(217, 211, 211);
+}
+
+.home{
+    background-color: rgb(33, 16, 16);
+    height: 300px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.viewwork{
+    margin-left: 20px;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: turquoise;
+}
+
+.hireme{
+    margin-left: 20px;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: turquoise;
+    
+}
+
+.wipe{
+    padding-left: 200px;
+    color:antiquewhite;
+}
+
+
+.media{
+    border-radius: 50%;
+    border: 1px solid rgb(23, 6, 6);
+ }
+
+.spiderman{
+    padding-left:  20px;
+}
+
+.skils{
+    margin-left: 30px;
+    margin-top: 40px;
+    color: rgb(68, 31, 31);
+}
+
+.contact{
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.link{
+    margin-left: 30px;
+}
+
+.door{
+    display:flex;
+    padding-left: 20px;
+}
+
+.close{
+    margin-left: 200px;
+}
+
+.education{
+    margin-left: 20px;
+    color: rgb(26, 10, 10);
+}
+
+.para{
+    margin: 20px;
+    margin-top: 30px;
+}
+
+.about{
+    margin-left: 10px;
+}
